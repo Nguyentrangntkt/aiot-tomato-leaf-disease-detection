@@ -30,6 +30,7 @@ Pipeline gồm ba mô hình được huấn luyện trên Edge Impulse và xuấ
 | YOLO Pro         | Phát hiện vùng lá                    | 640 x 640          |
 | MobileNetV2 1.0  | Phân loại Healthy hoặc Diseased      | 160 x 160          |
 | MobileNetV2 0.35 | Phân loại LeafMiner hoặc EarlyBlight | 96 x 96            |
+
 Các mô hình được lượng tử hóa INT8 trước khi triển khai trên Raspberry Pi 4.
 
 ## Kết quả thử nghiệm
@@ -41,6 +42,7 @@ Các mô hình được lượng tử hóa INT8 trước khi triển khai trên 
 | Độ chính xác toàn hệ thống                        | 94,0%    |
 | Tỷ lệ hoàn thành chu kỳ quét                      | 98,0%    |
 | Thời gian xử lý trung bình mỗi vị trí             | 7,8 giây |
+
 Kết quả được ghi nhận trên mô hình thử nghiệm trong nhà với 50 chu trình quét, tương ứng 150 vị trí kiểm thử.
 
 ## Cấu trúc thư mục
