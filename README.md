@@ -44,10 +44,6 @@ Trạng thái kết quả cuối cùng được lưu dưới dạng `healthy`, `
 - `.gitignore` — danh sách file cục bộ và file sinh tự động không đưa lên Git
 
 ## Cài đặt
-
-### Raspberry Pi 4
-## Cài đặt
-
 ### Raspberry Pi 4
 
 Tạo file cấu hình cục bộ từ `Pi4/.env.example`:
