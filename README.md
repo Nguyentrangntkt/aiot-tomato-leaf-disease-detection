@@ -79,6 +79,7 @@ Các kết quả sau được ghi nhận trên hệ thống phần cứng ban đ
 | Độ chính xác toàn hệ thống                        | 94,0%    |
 | Tỷ lệ hoàn thành chu kỳ quét                      | 98,0%    |
 | Thời gian xử lý trung bình mỗi vị trí             | 7,8 giây |
+
 Quá trình đánh giá gồm 50 chu kỳ quét và 150 vị trí kiểm thử.
 
 ## Hạn chế
