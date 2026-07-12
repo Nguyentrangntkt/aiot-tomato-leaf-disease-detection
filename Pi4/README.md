@@ -116,6 +116,7 @@ python3 scripts/pipeline.py \
 
 
 Ví dụ kết quả:
+```json
 {
   "has_disease": true,
   "final_label": "LeafMiner",
@@ -128,6 +129,7 @@ Ví dụ kết quả:
     "LeafMiner": 1
   }
 }
+```
 
 ## Chạy chương trình điều phối
 python3 pi4_brain_ble_device_auth_rest.py
