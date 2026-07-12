@@ -1,0 +1,14 @@
+__pycache__/
+**/__pycache__/
+**pycache**/
+*.pyc
+outputs/
+ai_results/
+.env
+.env.*
+!.env.example
+logs/
+*.log
+.DS_Store
+.vscode/
+.idea/

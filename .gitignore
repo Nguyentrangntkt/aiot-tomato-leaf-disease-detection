@@ -1,0 +1,28 @@
+# Local credentials and secrets
+.env
+.env.*
+!.env.example
+**/service-account*.json
+**/*service_account*.json
+**/credentials*.json
+
+# Runtime output
+**/__pycache__/
+*.py[cod]
+*.log
+Pi4/ai_results/
+Pi4/outputs/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Flutter generated output
+App/.dart_tool/
+App/build/
+App/.flutter-plugins
+App/.flutter-plugins-dependencies
+
+# PlatformIO generated output
+Esp32/.pio/

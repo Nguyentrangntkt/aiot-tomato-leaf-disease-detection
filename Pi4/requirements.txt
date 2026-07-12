@@ -1,0 +1,8 @@
+numpy>=1.24
+opencv-python>=4.8
+edge_impulse_linux>=1.0
+# Required by Edge Impulse Linux Python SDK on Raspberry Pi even when not imported directly.
+pyaudio
+requests>=2.31
+bleak>=0.21
+python-dotenv>=1.0
