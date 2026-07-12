@@ -46,6 +46,7 @@ Các mô hình được lượng tử hóa INT8 trước khi triển khai trên 
 Kết quả được ghi nhận trên mô hình thử nghiệm trong nhà với 50 chu trình quét, tương ứng 150 vị trí kiểm thử.
 
 ## Cấu trúc thư mục
+```text
 Pi4/
 ├── core/
 │   ├── __init__.py
@@ -70,6 +71,7 @@ Pi4/
 ├── pi4_brain_ble_device_auth_rest.py
 ├── README.md
 └── requirements.txt
+```
 
 ## Phần cứng và môi trường
 Hệ thống đã được triển khai với:
