@@ -33,6 +33,7 @@ Pipeline AI gồm ba giai đoạn:
 1. Phát hiện lá cà chua
 2. Phân loại Healthy hoặc Diseased
 3. Phân loại LeafMiner hoặc EarlyBlight
+   
 Trạng thái kết quả cuối cùng được lưu dưới dạng `healthy`, `diseased` hoặc `uncertain`.
 
 ## Cấu trúc thư mục
